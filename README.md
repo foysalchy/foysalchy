@@ -1,11 +1,6 @@
-# Hi there 👋, I'm MD. Shamsul Haque
+# Hi there 👋, I'm Foysal Mahmyd
 
 **Full Stack Web Developer | PHP (Laravel) | React.js | Node.js | Next.js**
-
-📍 Kazipara, Mirpur-10, Dhaka, Bangladesh  
-📧 [foysal.chy2801@gmail.com](mailto:foysal.chy2801@gmail.com)  
-🌐 [GitHub Profile](https://github.com/foysalchy)  
-📱 +8801864411645  
 
 ---
 
@@ -86,14 +81,6 @@ A passionate and results-driven Full Stack Web Developer with 5+ years of experi
 | [FenixCoder eCom 2](https://www.ecom2.fenixcoder.com/) | Multi Vendor Ecommerce |
 | [Bazarmiya](https://bazarmiya.com/) | Ecommerce |
 | [Microlab360](http://microlab360.com/login) | SaaS Hospital & Diagnostic Management (Demo: admin@demo / 12345678) |
-
----
-
-## 📫 Contact Me
-- Email: [foysal.chy2801@gmail.com](mailto:foysal.chy2801@gmail.com)  
-- Phone: +8801864411645  
-- GitHub: [https://github.com/foysalchy](https://github.com/foysalchy)  
-- Location: Kazipara, Mirpur-10, Dhaka-1216, Bangladesh  
 
 ---
 
