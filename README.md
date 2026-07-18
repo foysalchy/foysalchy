@@ -9,14 +9,7 @@ A passionate and results-driven Full Stack Web Developer with 5+ years of experi
 
 ---
 
-## 🎓 Education
 
-| Institute | Duration | Degree | GPA |
-|-----------|---------|--------|-----|
-| Baghapur School and College | Mar 2014 - 2019 | SSC (Humanities) | 3.17 |
-| Saic Institute of Management & Technology | Mar 2021 - 2025 | Diploma in Computer Science | 3.56 |
-
----
 
 ## 🛠️ Technical Skills
 
